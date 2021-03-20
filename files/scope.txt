@@ -1,0 +1,51 @@
+Project Scope
+
+Setup
+- environment dev;
+
+TOTAL: 4 hrs
+
+Shared
+- Header (Mobile/Desktop);
+- Footer (Mobile/Desktop);
+- Modal Cookie;
+- Css/sass file config;
+
+TOTAL: 16 hrs
+
+Home
+- Slider highlights(Mobile/Desktop);
+- Slider categories (Mobile/Desktop);
+- Highlight row (Mobile/Desktop);
+- Instagram feed (Mobile/Desktop);
+
+TOTAL: 100 hrs
+
+About
+- Highlight responsive;
+- Grid Layout(Images and description);
+
+TOTAL: 5 hrs
+
+Collection Page
+- Collection Header responsive;
+- Side menu filter (Mobile/Desktop);
+- Shop by size (Mobile/Desktop);
+- Product listing(Mobile/Desktop);
+
+TOTAL: 19 hrs
+
+Product Page
+- Product slider (Mobile/Desktop);
+- Product Color x Size selector (Mobile/Desktop);
+Product Infos;
+
+TOTAL: 11 hrs
+
+Login/Sign up
+- Form Login (Mobile/Desktop);
+- Form Sign up (Mobile/Desktop);
+
+TOTAL: 8 hrs
+
+
