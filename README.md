@@ -9,7 +9,12 @@ Sometimes using text files to writing scope or listing some things to do and our
 - [x] The total sum of string following a pattern
 
 ## 🔨 Usage
-Just install <a href="https://www.python.org/downloads/">🔗 python</a> and run the following commands on python command line:
+Just install <a href="https://www.python.org/downloads/">🔗 python</a> and then install <a href="https://github.com/python-openxml/python-docx"> python-docx</a>:
+
+```py
+pip install python-docx
+```
+Run the following commands on python command line:
 
 ``` py
 myClass = TotalHours('TOTAL: ', 3)
