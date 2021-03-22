@@ -1,7 +1,7 @@
 # Total-Hours
 
 ## :blush: **Why?**
-Sometimes using text files to writing scope or listing some things to do and our file finally pretty big. How I've receive and writting thats files, make this class to help the get total hours them.
+Sometimes we use text files to writing a scope or listing some things to do and our file finishes pretty big. How I've received and writing that's files, made this class to help get total hours them.
 
 ## ✨ Features
 
